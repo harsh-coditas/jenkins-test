@@ -1,0 +1,12 @@
+ConnectAndSellSupport.API/bin/*
+ConnectAndSellSupport.API/obj/*
+ConnectAndSellSupport.Domain/obj/*
+ConnectAndSellSupport.Domain/bin/*
+ConnectAndSellSupport.Repository/obj/*
+ConnectAndSellSupport.Repository/bin/*
+ConnectAndSellSupport.Services/bin/*
+ConnectAndSellSupport.Services/obj/*
+ConnectAndSellSupport.Tests/bin/*
+ConnectAndSellSupport.Tests/obj/*
+.vs/
+
